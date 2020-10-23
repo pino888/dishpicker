@@ -24,7 +24,7 @@ div {
     align-items: center;
     text-align: center;
     flex-direction: column;
-    width: 40%;
+    width: 50%;
     background-color: white;
     background-image: url("food.jpg");
     background-size: cover;
@@ -56,13 +56,13 @@ button {
 
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
     div {
-        width: 50%;
+        width: 60%;
     }
 }
 
 @media only screen and (min-width: 480px) and (max-width: 768px) {
     div {
-        width: 60%;
+        width: 80%;
     }
 }
 
