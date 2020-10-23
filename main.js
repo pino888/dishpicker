@@ -8,7 +8,7 @@ var userTypedText = "";
 
 // list of dishes and parameters
 var userDishes = [];
-var stockDishes = ["stock1", "stock2", "stock3"];
+var stockDishes = ["Burger and Chips", "Pizza", "Fish and Chips", "Kebab", "Roast Chicken", "Spaghetti Bolognese"];
 var uniqRate = 0; // for future option
 var recentDishes = [];
 
